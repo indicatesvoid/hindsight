@@ -460,6 +460,7 @@
 				7FA6F65618D918CC008B3061 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7FA6F65718D918CC008B3061 /* Build configuration list for PBXNativeTarget "digestTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				7FA6F65918D918CC008B3061 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
